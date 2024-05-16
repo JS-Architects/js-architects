@@ -311,6 +311,7 @@ h4,
 .site-nav {
   padding-top: 20px;
   padding-bottom: 20px;
+  background-color: lightgray;
 }
 .site-nav h1 {
   margin: 0;
